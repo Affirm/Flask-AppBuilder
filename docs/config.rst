@@ -201,6 +201,15 @@ Use config.py to configure the following parameters. By default it will use SQLL
 +-----------------------------------+--------------------------------------------+-----------+
 | FAB_API_SWAGGER_UI                | Enables a Swagger UI view (Boolean)        |   No      |
 +-----------------------------------+--------------------------------------------+-----------+
+| FAB_UPDATE_PERMS                  | Enables or disables update permissions     |           |
+|                                   | Default is True (Boolean)                  |   No      |
++-----------------------------------+--------------------------------------------+-----------+
+| FAB_ADD_SECURITY_VIEWS            | Enables or disables registering all        |           |
+|                                   | security views (boolean default:True)      |   No      |
++-----------------------------------+--------------------------------------------+-----------+
+| FAB_ADD_OPENAPI_VIEWS             | Enables or disables registering all        |           |
+|                                   | OPENAPI views (boolean default:True)       |   No      |
++-----------------------------------+--------------------------------------------+-----------+
 
 
 Using config.py
