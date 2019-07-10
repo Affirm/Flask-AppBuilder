@@ -1,6 +1,10 @@
 Versions
 ========
 
+Improvements and Bug fixes on 1.13.2
+------------------------------------
+- Patch, New, config flags to disable registering sec and OpenApi views
+
 Improvements and Bug fixes on 1.13.0
 ------------------------------------
 
